@@ -50,7 +50,7 @@ ${formData.message}
 *Please confirm the appointment or suggest alternative timings.*`;
     
     // Admin's WhatsApp number
-    const whatsappNumber = "7678674553";
+    const whatsappNumber = "9990586363";
     const whatsappUrl = `https://wa.me/${whatsappNumber}?text=${encodeURIComponent(message)}`;
     
     // Show toast message
